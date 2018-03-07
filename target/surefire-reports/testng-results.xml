@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="25220" started-at="2017-11-23T02:34:51Z" finished-at="2017-11-23T02:35:17Z">
+  <suite name="Command line suite" duration-ms="37045" started-at="2018-03-07T01:36:42Z" finished-at="2018-03-07T01:37:19Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="25220" started-at="2017-11-23T02:34:51Z" finished-at="2017-11-23T02:35:17Z">
+    <test name="Command line test" duration-ms="37045" started-at="2018-03-07T01:36:42Z" finished-at="2018-03-07T01:37:19Z">
       <class name="com.bit.macy.SmokeTest">
-        <test-method status="PASS" signature="op()[pri:0, instance:com.bit.macy.SmokeTest@59a6e353]" name="op" is-config="true" duration-ms="22927" started-at="2017-11-22T21:34:51Z" finished-at="2017-11-22T21:35:14Z">
+        <test-method status="PASS" signature="op()[pri:0, instance:com.bit.macy.SmokeTest@59a6e353]" name="op" is-config="true" duration-ms="31959" started-at="2018-03-06T20:36:42Z" finished-at="2018-03-06T20:37:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- op -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.bit.macy.SmokeTest@59a6e353]" name="test1" duration-ms="746" started-at="2017-11-22T21:35:14Z" finished-at="2017-11-22T21:35:15Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.bit.macy.SmokeTest@59a6e353]" name="test1" duration-ms="1375" started-at="2018-03-06T20:37:14Z" finished-at="2018-03-06T20:37:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:com.bit.macy.SmokeTest@59a6e353]" name="quit" is-config="true" duration-ms="1519" started-at="2017-11-22T21:35:15Z" finished-at="2017-11-22T21:35:17Z">
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.bit.macy.SmokeTest@59a6e353]" name="quit" is-config="true" duration-ms="3672" started-at="2018-03-06T20:37:15Z" finished-at="2018-03-06T20:37:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
